@@ -43,15 +43,19 @@ python hand_gesture_detection.py
 ### 3️⃣ Interact with the Model
 👋 Show different hand gestures and see them classified in real-time!
 
+---
+
 ##📂 Project Structure
+
 📂 Hand-Gesture-Recognition
 │── 🖼️ gesture.names        # List of gesture class names  
 │── 🧠 hand_gesture_detection.py  # Main Python script  
 │── 📜 README.md           # Documentation  
 │── 📦 model/              # Trained deep learning model  
 
+---
 
-📸 Sample Gestures
+## 📸 Sample Gestures
 
 Gesture	Recognized As
 ✌️	Victory/Peace
